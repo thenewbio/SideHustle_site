@@ -4,13 +4,15 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application in which the aim was to recreate the Landing page of the Company I worked as an itern.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This repository is also meant to practice and implement what have been taught to us such as;
+### Designing Beautiful UI 
+### Managing the state of our app when the code gets bulky by extracting our widgets into separate folder
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screen of original site 
+- <img src="screens/hu1.png" width= "600">
+
+## Screen of the code output
+- <img src="screens/hu.png" width= "600">
